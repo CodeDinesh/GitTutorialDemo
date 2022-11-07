@@ -1,1 +1,2 @@
 This is my version 1 git project
+I want this to go into commit 2
